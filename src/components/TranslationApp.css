@@ -1,0 +1,41 @@
+/* TranslationApp.css */
+
+.containers {
+    max-width: 400px;
+    margin: 20px auto;
+    margin-top: 40;
+    padding: 20px;
+    background-color: whitesmoke;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  input,
+  textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+
+
+  
+  div[style] {
+    margin-top: 16px;
+    font-size: 18px;
+  }
+  
+  div[style="color: red;"] {
+    color: red;
+  }
+  
